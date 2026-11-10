@@ -1,4 +1,4 @@
-# getmyhotels-com
+# GetMyHotels
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,137 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-getmyhotels-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://getmyhotels.com/
+GetMyHotels is an AI-powered travel concierge that simplifies hotel booking by allowing users to describe their ideal stay in natural language. The platform searches real-time hotel inventories, presents options, and handles booking while continuously monitoring price changes. It offers a seamless experience across web and mobile apps, targeting travelers seeking personalized, automated hotel reservations.
+
+**Areas:** Company · AI · Travel · Hotel · Booking · Concierge
+
+## GetMyHotels on APIs.io
+
+Everything profiled for GetMyHotels is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/getmyhotels-com/](https://apis.io/providers/getmyhotels-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (18)
+
+- [GetMyHotels Account API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-account-api/) — The account API from GetMyHotels — 5 operation(s) for account.
+- [GetMyHotels Admin API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-admin-api/) — The admin API from GetMyHotels — 15 operation(s) for admin.
+- [GetMyHotels App API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-app-api/) — The app API from GetMyHotels — 1 operation(s) for app.
+- [GetMyHotels Bookings API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-bookings-api/) — The bookings API from GetMyHotels — 13 operation(s) for bookings.
+- [GetMyHotels Chat API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-chat-api/) — The chat API from GetMyHotels — 14 operation(s) for chat.
+- [GetMyHotels Consents API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-consents-api/) — The consents API from GetMyHotels — 1 operation(s) for consents.
+- [GetMyHotels Devices API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-devices-api/) — The devices API from GetMyHotels — 2 operation(s) for devices.
+- [GetMyHotels Favorites API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-favorites-api/) — The favorites API from GetMyHotels — 2 operation(s) for favorites.
+- [GetMyHotels Flights API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-flights-api/) — The flights API from GetMyHotels — 1 operation(s) for flights.
+- [GetMyHotels Hotels API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-hotels-api/) — The hotels API from GetMyHotels — 4 operation(s) for hotels.
+- [GetMyHotels Live Activities API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-live-activities-api/) — The live-activities API from GetMyHotels — 2 operation(s) for live-activities.
+- [GetMyHotels Notifications API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-notifications-api/) — The notifications API from GetMyHotels — 5 operation(s) for notifications.
+- [GetMyHotels Payment Methods API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-payment-methods-api/) — The payment-methods API from GetMyHotels — 3 operation(s) for payment-methods.
+- [GetMyHotels Payments API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-payments-api/) — The payments API from GetMyHotels — 6 operation(s) for payments.
+- [GetMyHotels Phone API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-phone-api/) — The phone API from GetMyHotels — 2 operation(s) for phone.
+- [GetMyHotels Price Watches API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-price-watches-api/) — The price-watches API from GetMyHotels — 7 operation(s) for price-watches.
+- [GetMyHotels Support API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-support-api/) — The support API from GetMyHotels — 4 operation(s) for support.
+- [GetMyHotels Trips API](https://apis.io/apis/getmyhotels-com/getmyhotels-com-trips-api/) — The trips API from GetMyHotels — 8 operation(s) for trips.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [GetMyHotels Agentic Access](https://apis.io/agentic-access/getmyhotels-com/getmyhotels-com-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [AppStatus](https://apis.io/schemas/getmyhotels-com/getmyhotels-com-app-status/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Getmyhotels Com Context](https://apis.io/jsonld/getmyhotels-com/getmyhotels-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [GetMyHotels API Rules](https://apis.io/rules/getmyhotels-com/getmyhotels-com-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [GetMyHotels Authentication](https://apis.io/security/getmyhotels-com/getmyhotels-com-authentication/)
+- [GetMyHotels Domain Security](https://apis.io/security/getmyhotels-com/getmyhotels-com-domain-security/)
+- [GetMyHotels Trust Center](https://apis.io/security/getmyhotels-com/getmyhotels-com-trust-center/)
+- [GetMyHotels Vulnerability Disclosure](https://apis.io/security/getmyhotels-com/getmyhotels-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.getmyhotels.com/)
+- [Documentation](https://www.getmyhotels.com/guides/best-time-to-visit-bali)
+- [Blog](https://www.getmyhotels.com/blog)
+- [Security](https://www.getmyhotels.com/security)
+- [Compliance](https://www.getmyhotels.com/compliance)
+- [Terms of service](https://www.getmyhotels.com/terms)
+- [Privacy policy](https://www.getmyhotels.com/privacy)
+- [Status](https://status.getmyhotels.com/)
+
+## API Evangelist rating
+
+**Kin Score 50.9** — developing · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 52.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 50.0 |
+
+**Agent readiness 57.3** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 32.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/getmyhotels-com/](https://apis.io/providers/getmyhotels-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GetMyHotels: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/getmyhotels-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
